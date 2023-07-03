@@ -92,4 +92,8 @@ p {
         border-radius: 10px;
     }
 
+    img {
+        width: 15em;
+        height: 15em;
+    }
 }
