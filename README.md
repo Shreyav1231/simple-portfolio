@@ -4,3 +4,5 @@ In the HTML file, you'll find comments of where you can add in your hyperlinks.
 All the svg links are from iconpacks.net and you are free to change the social media svgs as per your preference.
 I hope this helps non-coders have their own portfolio website. 
 For this project, I focused on the color scheme and responsiveness.
+
+PS: I am working on adding a piano-like design to the sides of the page, let's see how that goes xD
